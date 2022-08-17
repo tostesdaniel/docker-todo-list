@@ -34,6 +34,12 @@ Instruções para instalação do [Node.js](https://nodejs.org/en/download/)
 
 Para rodar a aplicação, execute os seguintes comandos no terminal.
 
+### Clone o repositório
+
+```
+git clone git@github.com:tostesdaniel/docker-todo-list.git
+```
+
 ### Acesse o diretório do projeto
 
 ```
@@ -49,5 +55,5 @@ docker compose up -d
 ### Acesse o aplicativo no navegador
 
 ```
-localhost:3000
+http://localhost:3000
 ```
